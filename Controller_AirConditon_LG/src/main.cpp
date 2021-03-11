@@ -12,12 +12,12 @@
 /*
 *define info mqtt
 */
-const char* ssid =            "Hunonic T2_2Ghz";
-const char* password =        "66668888";
+const char* ssid =            "";
+const char* password =        "";
 const char* mqtt_client_id =  "ir_controller";
-const char* mqtt_server_ip =  "mqtt2.hunonicpro.com";
-const char* mqtt_user =       "bestbug";
-const char* mqtt_password =   "bigbugdmm";
+const char* mqtt_server_ip =  "";
+const char* mqtt_user =       "";
+const char* mqtt_password =   "";
 const char* mqtt_topic_sub =  "recv";
 const char* mqtt_topic_pub =  "gui";
 int   mqtt_port = 1883; 
